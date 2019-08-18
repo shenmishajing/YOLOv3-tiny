@@ -16,8 +16,15 @@ convnet/
 decaf/
 submission/
 cfg/
+VOCdevkit/
 darknet
 .fuse*
+backup/*
+*.a
+*.so
+*.weights
+*.backup
+*.conv.*
 
 # OS Generated #
 .DS_Store*
