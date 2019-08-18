@@ -1,6 +1,6 @@
 classes= 1
-train  = /home/zmart/Project/darknet/VOCdevkit/VOC2007/ImageSets/Main/train.txt
-valid  = /home/zmart/Project/darknet/VOCdevkit/VOC2007/ImageSets/Main/val.txt
+train  = VOCdevkit/VOC2007/ImageSets/Main/train.txt
+valid  = VOCdevkit/VOC2007/ImageSets/Main/val.txt
 names = data/voc.names
 backup = backup
 
